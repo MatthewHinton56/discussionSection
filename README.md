@@ -1,1 +1,3 @@
 # discussionSection
+
+## git today
