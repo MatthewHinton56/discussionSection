@@ -1,0 +1,2 @@
+bitXor 
+x^x
